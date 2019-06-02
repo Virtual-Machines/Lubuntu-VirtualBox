@@ -5,7 +5,7 @@ Last update: 2019-06-02
 ![Synaptic](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/Synaptic.png)
 ![pcmanfm](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/pcmanfm.png)
 
-- Minimal Lubuntu Bionic 18.04.2 (lubuntu-core package)
+- Minimal Lubuntu Bionic 18.04.2 (**lubuntu-core** package)
 - Linux Kernel 4.18 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Synaptic package manager
@@ -13,14 +13,18 @@ Last update: 2019-06-02
 - Command-line download manager: wget
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
 - It can be used as a base of development environments, to test software...
-- OVA file less than 400 MB
+- OVA file less than **400 MB**
 - User and pass of system is the same: **lubuntu**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
 [**OPINION**](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/issues/1)
 
 # New! You can get full desktop version here: [DOWNLOAD](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/releases/download/latest/LubuntuBionicFull.ova)
-- Lubuntu Bionic 18.04.2 (lubuntu-desktop package)
+- Lubuntu Bionic 18.04.2 (**lubuntu-desktop** package)
 - Linux Kernel 4.18 HWE (Hardware Enablement)
+- VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
+- NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
 - Includes all default apps: Firefox, Pidgin, Sylpheed, Galculator, Disks, Abiword, Audacious, Evince, Gnumeric...
-- OVA file less than 1 GB
+- OVA file less than **1 GB**
+- User and pass of system is the same: **lubuntu**
+- Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
