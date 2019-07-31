@@ -1,5 +1,5 @@
 # Lubuntu VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/releases/download/latest/LubuntuBionic.ova) - [VIDEO](https://www.youtube.com/watch?v=NAAUf0zA_iQ)
-Last update: 2019-07-27
+Last update: 2019-07-31
 
 ![Lubuntu](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/Lubuntu.png)
 ![Synaptic](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/Synaptic.png)
