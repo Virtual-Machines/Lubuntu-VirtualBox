@@ -6,7 +6,7 @@ Last update: 2019-08-01
 ![pcmanfm](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/pcmanfm.png)
 
 - Minimal Lubuntu Bionic 18.04.2 (**lubuntu-core** package)
-- Linux Kernel 4.18 HWE (Hardware Enablement)
+- Linux Kernel 5 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Synaptic package manager
 - Basic python http server included. Example: python3 -m http.server 8080
