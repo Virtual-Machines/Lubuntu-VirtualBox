@@ -2,8 +2,8 @@
 Last update: 2019-08-06
 
 ![Lubuntu](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/Lubuntu.png)
+![Commands](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/commands.png)
 ![Synaptic](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/Synaptic.png)
-![pcmanfm](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/pcmanfm.png)
 
 - Minimal Lubuntu Bionic 18.04.3 (**lubuntu-core** package)
 - Linux Kernel 5 HWE (Hardware Enablement)
