@@ -20,8 +20,8 @@ Last update: 2019-08-06
 [**OPINION**](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/issues/1)
 
 # You can get full desktop version here: [DOWNLOAD](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/releases/download/latest/LubuntuBionicFull.ova)
-- Lubuntu Bionic 18.04.2 (**lubuntu-desktop** package)
-- Linux Kernel 4.18 HWE (Hardware Enablement)
+- Lubuntu Bionic 18.04.3 (**lubuntu-desktop** package)
+- Linux Kernel 5 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
 - Includes all default apps: Firefox, Pidgin, Sylpheed, Galculator, Disks, Abiword, Audacious, Evince, Gnumeric...
