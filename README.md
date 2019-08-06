@@ -1,11 +1,11 @@
 # Lubuntu VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/releases/download/latest/LubuntuBionic.ova) - [VIDEO](https://www.youtube.com/watch?v=NAAUf0zA_iQ)
-Last update: 2019-08-02
+Last update: 2019-08-06
 
 ![Lubuntu](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/Lubuntu.png)
 ![Synaptic](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/Synaptic.png)
 ![pcmanfm](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/pcmanfm.png)
 
-- Minimal Lubuntu Bionic 18.04.2 (**lubuntu-core** package)
+- Minimal Lubuntu Bionic 18.04.3 (**lubuntu-core** package)
 - Linux Kernel 5 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Synaptic package manager
