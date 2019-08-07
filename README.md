@@ -19,7 +19,7 @@ Last update: 2019-08-07
 
 [**OPINION**](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/issues/1)
 
-# Lubuntu Full Desktop VirtualBox: [DOWNLOAD](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/releases/download/latest/LubuntuBionicFull.ova)
+# Lubuntu Full Desktop VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/releases/download/latest/LubuntuBionicFull.ova)
 - Lubuntu Bionic 18.04.3 (**lubuntu-desktop** package)
 - Linux Kernel 5 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
