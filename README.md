@@ -24,7 +24,7 @@ Last update: 2019-08-07
 - Linux Kernel 5 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
-- **Includes all default apps: Firefox, Pidgin, Sylpheed, Galculator, Disks, Abiword, Audacious, Evince, Gnumeric...**
+- **Includes all default apps: Synaptic, Firefox, Pidgin, Sylpheed, Galculator, Disks, Abiword, Audacious, Evince, Gnumeric...**
 - OVA file less than **1 GB**
 - User and pass of system is the same: **lubuntu**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
