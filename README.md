@@ -1,4 +1,4 @@
-# Lubuntu VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/releases/download/latest/LubuntuBionic.ova) - [VIDEO](https://www.youtube.com/watch?v=NAAUf0zA_iQ)
+# Lubuntu Minimal VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/releases/download/latest/LubuntuBionic.ova) - [VIDEO](https://www.youtube.com/watch?v=NAAUf0zA_iQ)
 Last update: 2019-08-06
 
 ![Lubuntu](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/lubuntu.png)
@@ -19,7 +19,7 @@ Last update: 2019-08-06
 
 [**OPINION**](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/issues/1)
 
-# You can get full desktop version here: [DOWNLOAD](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/releases/download/latest/LubuntuBionicFull.ova)
+# Lubuntu Full Desktop VirtualBox: [DOWNLOAD](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/releases/download/latest/LubuntuBionicFull.ova)
 - Lubuntu Bionic 18.04.3 (**lubuntu-desktop** package)
 - Linux Kernel 5 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
