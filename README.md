@@ -1,7 +1,5 @@
 # Lubuntu VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/releases/download/latest/LubuntuBionic.ova) - [VIDEO](https://www.youtube.com/watch?v=NAAUf0zA_iQ)
-Last update: 2019-11-29
-
-**New! If you have problems with 3D acceleration** you can try this machine: [DOWNLOAD TEST](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/releases/download/latest/LubuntuBionicTest.ova)
+Last update: 2019-12-07
 
 ![Lubuntu](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/lubuntu.png)
 ![Commands](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/commands.png)
