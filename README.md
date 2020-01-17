@@ -1,13 +1,13 @@
 # Lubuntu VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/releases/download/latest/LubuntuBionic.ova) - [VIDEO](https://www.youtube.com/watch?v=NAAUf0zA_iQ)
 
-[**Your OPINION is important**](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/issues/1) - Last update: 2020-01-11
+[**Your OPINION is important**](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/issues/1) - Last update: 2020-01-17
 
 ![Lubuntu](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/lubuntu.png)
 ![Commands](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/commands.png)
 ![Synaptic](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/Synaptic.png)
 
 - Minimal Lubuntu Bionic 18.04.3 (**lubuntu-core** package)
-- Linux Kernel 5 HWE (Hardware Enablement)
+- Linux Kernel 5.3 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Synaptic package manager
 - Basic python http server included. Example: python3 -m http.server 8080
