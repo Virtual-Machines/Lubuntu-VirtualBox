@@ -2,6 +2,8 @@
 
 [**Your OPINION is important**](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/issues/1) - Last update: 2020-01-17
 
+> Anon user: The lubuntu OVA works as expected. Thank you very much for your efforts!
+
 ![Lubuntu](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/lubuntu.png)
 ![Commands](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/commands.png)
 ![Synaptic](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/Synaptic.png)
