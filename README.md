@@ -1,6 +1,6 @@
 # Lubuntu VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/releases/download/latest/LubuntuBionic.ova) - [VIDEO](https://www.youtube.com/watch?v=NAAUf0zA_iQ)
 
-[**Your OPINION is important**](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/issues/1) - Last update: 2020-01-24
+[**Your OPINION is important**](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/issues/1) - Last update: 2020-02-01
 
 > Anon user: The lubuntu OVA works as expected. Thank you very much for your efforts!
 
