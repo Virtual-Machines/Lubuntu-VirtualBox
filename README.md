@@ -8,7 +8,7 @@
 ![Commands](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/commands.png)
 ![Synaptic](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/Synaptic.png)
 
-- Minimal Lubuntu Bionic 18.04.4 (**lubuntu-core** package)
+- Minimal Lubuntu Bionic **18.04.4** (**lubuntu-core** package)
 - Linux Kernel 5.3 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Synaptic package manager
