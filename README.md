@@ -3,6 +3,7 @@
 [**Your OPINION is important**](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/issues/1) - Last update: 2020-03-07
 
 > Anon user: The lubuntu OVA works as expected. Thank you very much for your efforts!
+> wnctrunk: This ubuntu so very nice ！thanks developer
 
 ![Lubuntu](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/lubuntu.png)
 ![Commands](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/commands.png)
