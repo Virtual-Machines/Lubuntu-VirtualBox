@@ -1,6 +1,6 @@
 # Lubuntu VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/releases/download/latest/LubuntuBionic.ova) - [VIDEO](https://www.youtube.com/watch?v=NAAUf0zA_iQ)
 
-[**Your OPINION is important**](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/issues/1) - Last update: 2020-06-26
+[**Your OPINION is important**](https://github.com/Virtual-Machines/Lubuntu-VirtualBox/issues/1) - Last update: 2020-07-12
 
 ![Lubuntu](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/lubuntu.png)
 ![Commands](https://raw.githubusercontent.com/Virtual-Machines/Lubuntu-VirtualBox/master/commands.png)
